@@ -1,3 +1,3 @@
-# nmvr-labs-work-int-la-func
+# Logic Apps Playground
 
 Playground repo for logic apps
