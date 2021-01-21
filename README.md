@@ -2,6 +2,7 @@
 
 Playground repo for logic apps
 
+- Logic Apps (Preview) Experiences
 - Implementing Integration Patterns
-- Logic Apps Hosting Experiences
+- Implemention PoC Logic Apps (Preview)
 - Others
